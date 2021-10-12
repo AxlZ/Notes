@@ -177,16 +177,3 @@ quad 空格 $a\quad b$
 # 更多Latex用法：
 [知乎专栏](https://zhuanlan.zhihu.com/p/366596107)
 
-
-
-asdasd
-asdas
-asdasd
-asdasd
-asdasd
-asdasd
-asdasd
-asdasdas
-adssd
-
-# git提交
